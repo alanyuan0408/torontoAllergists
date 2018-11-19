@@ -1,0 +1,3 @@
+/* Additional CSS styles to the orginial webpage
+================================================ */
+.normalCase {text-transform: capitalize!important; /* force text to proper case */}
